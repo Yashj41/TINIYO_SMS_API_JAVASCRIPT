@@ -53,7 +53,7 @@
 <div><span style="font-family: arial; font-size: medium;"><br /></span></div>
 <div><span style="font-family: arial; font-size: medium;"><br /></span></div>
 <div>
-  <div class="separator" style="clear: both; text-align: center;"><a href="image4.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="913" data-original-width="1920" height="auto" src="image4.png" style="border: 1px solid black;" width="auto" /></a></div>
+  <div class="separator" style="clear: both; text-align: center;"><a href="image4.png"><img border="0" data-original-height="913" data-original-width="1920" height="auto" src="image4.png" style="border: 1px solid black;" width="auto" /></a></div>
   <br /><span style="font-family: arial; font-size: medium;"><br /></span>
 </div>
 <div><span style="font-family: arial; font-size: medium;">Copy Your Key and Secet provided by Tiniyo and Store it.</span></div>
