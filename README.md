@@ -1,4 +1,6 @@
 <h1 style="text-align: left;"><span style="font-family: verdana; font-size: large;">How to Send SMS With JavaScript Using Tiniyo</span></h1>
+<div class="separator" style="clear: both; text-align: center;"><a href="i.png" style="margin-left: 1em; margin-right: 1em;"><img alt="Sign Up" border="0" data-original-height="609" data-original-width="1280" height="304" src="i.png" style="border: 1px solid black;" title="Sign Up" width="636" /></a></div>
+
 <div>
   <div><br /></div>
   <div>
