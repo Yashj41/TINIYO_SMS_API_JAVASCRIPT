@@ -26,20 +26,20 @@
 <div><span style="font-family: arial; font-size: medium;">If you already have a Tiniyo account, great!&nbsp; Feel free to skip to Step 2.&nbsp; If not, no worries !&nbsp;</span><span style="font-family: arial; font-size: medium;">Go to&nbsp;<a href="https://www.tiniyo.com/" target="_blank">Tiniyo Official Website</a>. Click on Sign Up.</span></div>
 <div><span style="font-family: arial; font-size: medium;"><br /></span></div>
 <div>
-  <div class="separator" style="clear: both; text-align: center;"><a href="image1.png" style="margin-left: 1em; margin-right: 1em;"><img alt="Sign Up" border="0" data-original-height="609" data-original-width="1280" height="auto" src="image1.png" style="border: 1px solid black;" title="Sign Up" width="auto" /></a></div>
+  <div class="separator" style="clear: both; text-align: center;"><a href="image1.png"><img alt="Sign Up" border="0" data-original-height="609" data-original-width="1280" height="auto" src="image1.png" style="border: 1px solid black;" title="Sign Up" width="auto" /></a></div>
 </div>
 <div><span style="font-family: arial;"><span style="font-size: medium;"><span>&nbsp;&nbsp; &nbsp;</span></span></span></div>
 <div><span style="font-family: arial;"><span style="font-size: medium;">You will redirect to Sign Up page. FIll your details and click on "SignUp" Button.</span></span></div>
 <div><br /></div>
 <div><br /></div>
-<div class="separator" style="clear: both; text-align: center;"><a href="image2.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="609" data-original-width="1280" height="auto" src="image2.png" style="border: 1px solid black;" width="auto" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="image2.png"><img border="0" data-original-height="609" data-original-width="1280" height="auto" src="image2.png" style="border: 1px solid black;" width="auto" /></a></div>
 <div><span style="font-family: arial; font-size: medium;"><br /></span></div>
 <div><span style="font-family: arial; font-size: medium;">Now, Your Account is Successfully Created. Verify your Phone Number using OTP.</span></div>
 <div><span><span><br /></span></span></div>
 <div><span style="font-family: arial; font-size: medium;">After that Login into your Account using your Email Id and Password.</span></div>
 <div><span style="font-family: arial; font-size: medium;"><br /></span></div>
 <div>
-  <div class="separator" style="clear: both; text-align: center;"><a href="image3.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="873" data-original-width="1043" height="auto" src="image3.png" style="border: 1px solid black;" width="auto" /></a></div>
+  <div class="separator" style="clear: both; text-align: center;"><a href="image3.png" ><img border="0" data-original-height="873" data-original-width="1043" height="auto" src="image3.png" style="border: 1px solid black;" width="auto" /></a></div>
   <span style="font-family: arial; font-size: medium;"><br /></span>
 </div>
 <div><span style="font-family: arial; font-size: medium;"><br /></span></div>
@@ -66,7 +66,7 @@
 <div><span style="font-family: arial; font-size: medium;">Here is the code for call SMS API using JavaScript. You can use this code with some changes.</span></div>
 <div><span style="font-family: arial; font-size: medium;"><br /></span></div>
 <div>
-  <div class="separator" style="clear: both; text-align: center;"><a href="codeimage.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="770" data-original-width="1034" height="auto" src="codeimage.png" style="border: 1px solid black;" width="auto" /></a></div>
+  <div class="separator" style="clear: both; text-align: center;"><a href="codeimage.png" ><img border="0" data-original-height="770" data-original-width="1034" height="auto" src="codeimage.png" style="border: 1px solid black;" width="auto" /></a></div>
 </div>
 <div class="separator" style="clear: both; text-align: center;"><br /></div>
 <div><span style="font-family: arial; font-size: large;">Save this code with .js extension.</span></div>
@@ -91,7 +91,7 @@
 <div><span face="Roboto, sans-serif"><span style="font-size: large;"><br /></span></span></div>
 <div>
   <span face="Roboto, sans-serif">
-    <div class="separator" style="clear: both; text-align: center;"><a href="msgimage.jpg" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="auto" data-original-width="1080" height="761" src="msgimage.jpg" style="border: 1px solid black;" width="auto" /></a></div>
+    <div class="separator" style="clear: both; text-align: center;"><a href="msgimage.jpg"><img border="0" data-original-height="auto" data-original-width="1080" height="761" src="msgimage.jpg" style="border: 1px solid black;" width="auto" /></a></div>
     <div class="separator" style="clear: both; text-align: center;"><br /></div>
   </span>
   <span style="background-color: white; color: #0d112b; font-family: arial; font-size: large; letter-spacing: -0.16px;">That's it, you've sent an SMS message using JavaScript and Tiniyo API.</span>
